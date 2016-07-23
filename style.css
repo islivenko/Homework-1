@@ -1,0 +1,34 @@
+div {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 300px;
+}
+
+h1 {
+    font-size: 27px;
+    margin-top: 50px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #8c8c8c
+;
+
+}
+
+body {
+    background: #F4F4F4;
+    font-family: Arial;
+}
+
+p {
+    margin-left: 40px;
+}
+
+.position {
+    margin-left: 0px;
+}
